@@ -1,9 +1,9 @@
 package main
 
-import (
+import {
 	"os"
-	"testing"
-)
+}
+
 
 var (
 	requiredFiles = []string{"README.md", "main.go", "main_test.go", "go.mod"}
